@@ -34,6 +34,11 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        window.parsePlugin.initialize("myid","myclientkey", function() {
+        alert('success');           
+    }, function(e) {        
+        alert("Error: " + e.code + " : " + e.message);
+    });
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
