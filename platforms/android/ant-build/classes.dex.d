@@ -1,0 +1,19 @@
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes.dex : \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/HelloWorld.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/Manifest$permission.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/Manifest.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/R$drawable.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin$1.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin$2.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin$3.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin$4.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin$5.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin$6.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/classes/org/apache/cordova/core/ParsePlugin.class \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/dexedLibs/classes-9028c532a60bd5b1958b04bf1b6a26d7.jar \
+/Users/manas/Desktop/projects/myapp1/platforms/android/ant-build/dexedLibs/Parse-1.3.8-6dc595bb3e8ec9fa27f5c676c4d129db.jar \
