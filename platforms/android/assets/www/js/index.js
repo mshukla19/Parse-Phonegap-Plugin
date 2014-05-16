@@ -34,6 +34,23 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        window.parsePlugin.initialize("appid","clientkey", function() {
+        alert('success');           
+    }, function(e) {        
+        alert("Error: " + e.code + " : " + e.message);
+    });
+        window.parsePlugin.getInstallationId(function(id) {
+        installationID = id;  
+        alert(id);      
+                    
+    }, function(e) {
+        alert("Error Getting ID: " + e.code + " : " + e.message);
+    });
+        window.parsePlugin.subscribe('SampleChannel', function() {
+        alert('OK');
+    }, function(e) {
+        alert('error');
+    }); 
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
